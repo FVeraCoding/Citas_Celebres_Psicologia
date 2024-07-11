@@ -33,26 +33,17 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
     ```bash
     cd tu-repositorio
     ```
-3. Instala las dependencias
-    ```bash
-    npm install
-    ```
-4. Ejecuta Gulp para compilar Sass y lanzar un servidor local
-    ```bash
-    gulp
-    ```
-5. Abre `index.html` en tu navegador preferido
+3. Abre `index.html` en tu navegador preferido
 
 ## Uso
 
-Al acceder a la página, puedes pulsar en el botón de "Cambiar Color" y copiar el código hexadecimal del mismo para incluirlo en tus proyectos.
+Al acceder a la página, puedes pulsar en el botón de "Siguiente Cita" para generar otra cita célebre de la psicología.
 
 ## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
-- BootStrap
 
 ## Autor
 
